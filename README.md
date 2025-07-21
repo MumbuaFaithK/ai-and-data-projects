@@ -21,8 +21,8 @@ Welcome to my portfolio repository! This space contains projects, assignments, a
 ## Author
 
 **Faith Mumbua**  
-Aspiring Data Analyst & AI Enthusiast  
-[LinkedIn](www.linkedin.com/in/faithmumbua)
+Aspiring Data Analyst & AI Enthusiast
+(www.linkedin.com/in/faithmumbua)
 
 ## License
 
